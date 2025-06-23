@@ -11,6 +11,8 @@ Ideal para quem está a iniciar em C# ou desenvolvimento com .NET.
 
 ---
 
+![Ilustração](https://github.com/Cati94/CSharpStudyExercises/blob/main/c%23.png)
+
 ## 📚 Objetivo
 
 Este repositório serve como base para:
